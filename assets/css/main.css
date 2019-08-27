@@ -2644,7 +2644,7 @@ input, select, textarea {
 
 	}
 
-	@-webkit-keyframes psychedelic {
+	/* @-webkit-keyframes psychedelic {
   0% {
     -webkit-filter: hue-rotate(0deg) saturate(2) invert(0);
   }
@@ -2656,13 +2656,13 @@ input, select, textarea {
   100% {
     -webkit-filter: hue-rotate(0deg) saturate(2) invert(0);
   }
-}
+} */
 
 .user-image{
-  -webkit-animation: psychedelic linear 10s infinite;
+  /* -webkit-animation: psychedelic linear 10s infinite;
   -moz-animation: psychedelic linear 10s infinite;
   -o-animation: psychedelic linear 10s infinite;
-  animation: psychedelic linear 10s infinite;
+  animation: psychedelic linear 10s infinite; */
   width: 500px;
   border-radius: 4px;
 }
